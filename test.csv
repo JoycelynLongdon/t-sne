@@ -1,4 +1,4 @@
-,tsne1,tsne2,tsne_clusters,filename
+index,tsne1,tsne2,tsne_clusters,filename
 0,-8.138756,-0.516849,7,split_100_19700101_122640_short.WAV
 1,-8.320867,-0.3189031,7,split_101_19700101_122640_short.WAV
 2,-8.278735,-0.29285255,7,split_102_19700101_122640_short.WAV
